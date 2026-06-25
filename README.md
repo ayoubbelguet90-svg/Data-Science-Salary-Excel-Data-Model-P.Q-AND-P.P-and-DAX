@@ -75,12 +75,6 @@ Here is the breakdown of the interactive dashboard tabs developed to explore the
 
 <img width="1338" height="448" alt="Screenshot 2026-06-25 111131" src="https://github.com/user-attachments/assets/b6a10ee7-a481-4994-99b8-48add02653fe" />
 
-### 🕹️ Dynamic Dashboard Walkthrough (GIF)
-* **Interactive Slicers**: Filter data dynamically by Country and Job Title.
+### 🕹️ Dynamic Dashboard Walkthrough
 
-<img width="1350" height="560" alt="Animation R" src="https://github.com/user-attachments/assets/304353d9-1fdb-459f-9235-e90e3980c4c9" />
-
----
-
-## 👤 Author
-* **ayoubelguet** 
+<img width="1350" height="560" alt="Animation R" src="https://github.com/user-attachments/assets/81692767-d677-4472-bb76-27493528a750" />
