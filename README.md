@@ -77,4 +77,7 @@ Here is the breakdown of the interactive dashboard tabs developed to explore the
 
 ### 🕹️ Dynamic Dashboard Walkthrough
 
-<img width="1350" height="560" alt="Animation R" src="https://github.com/user-attachments/assets/81692767-d677-4472-bb76-27493528a750" />
+<img width="1350" height="560" alt="Animation R" src="https://github.com/user-attachments/assets/9e548647-44f5-4bfb-b9b2-72276a6888d3" />
+
+## 👤 Author
+* **ayoubelguet** 
